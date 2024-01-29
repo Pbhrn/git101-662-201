@@ -3,5 +3,5 @@ using namespace std;
 
 int main() {
     //console output
-    cout << "Hello Git" << endl;
+    cout << "Love C++" << endl;
 }
